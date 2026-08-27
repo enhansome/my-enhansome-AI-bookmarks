@@ -1,9 +1,16 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-26T03:00:16.658Z",
-    "original_repository": "goodrahstar/my-awesome-AI-bookmarks",
-    "original_repository_id": 122454736,
+    "last_updated": "2026-08-27T12:12:48.540Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 122454736,
+      "language": null,
+      "last_commit": "2024-07-10T16:35:47Z",
+      "owner": "goodrahstar",
+      "repo": "my-awesome-AI-bookmarks",
+      "stars": 285
+    },
     "original_repository_sha": "c679415ef40ed665fd990b55f4b10a2bb35cd243",
     "enhanced_repository": "enhansome/my-enhansome-AI-bookmarks",
     "enhanced_repository_description": null,
