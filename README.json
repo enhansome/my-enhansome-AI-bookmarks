@@ -1,15 +1,36 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-08-28T13:43:28.459Z",
+    "last_updated": "2026-08-29T04:47:14.406Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of my reads, implementations and core concepts of Artificial Intelligence, Deep Learning, Machine Learning by best folk in the world.",
+      "homepage": null,
       "id": 122454736,
       "language": null,
+      "license": null,
       "last_commit": "2024-07-10T16:35:47Z",
+      "open_issues": 2,
       "owner": "goodrahstar",
       "repo": "my-awesome-AI-bookmarks",
-      "stars": 285
+      "stars": 285,
+      "topics": [
+        "algorithms",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "blogs",
+        "datascience",
+        "deep-learning",
+        "deeplearning",
+        "list",
+        "machine-learning",
+        "mathamatics",
+        "neural-network",
+        "python",
+        "pytorch",
+        "tensorflow"
+      ]
     },
     "original_repository_sha": "c679415ef40ed665fd990b55f4b10a2bb35cd243",
     "enhanced_repository": "enhansome/my-enhansome-AI-bookmarks",
