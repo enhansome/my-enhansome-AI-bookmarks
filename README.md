@@ -669,7 +669,7 @@ Curated list of my reads, implementations and core concepts of Artificial Intell
 
 ### Contributing
 
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/goodrahstar/my-awesome-AI-bookmarks/pulls) ⭐ 286 | 🐛 2 | 📅 2024-07-10.
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/goodrahstar/my-awesome-AI-bookmarks/pulls).
 
 ***
 
@@ -681,4 +681,4 @@ To the extent possible under law, [Rahul Kumar](http://www.hellorahulk.com) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
